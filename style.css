@@ -1,0 +1,15 @@
+body{background-color: lightsalmon;}
+
+h1{
+   
+    text-align: center;
+    text-shadow: 2px 2px 5px lightsalmon;
+    margin-left: 20px;
+    color: whitesmoke;
+   
+}
+
+.PlayerVideo{
+    background-image:url("media/food1.jpg") ;
+
+}
